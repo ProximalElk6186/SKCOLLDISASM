@@ -6,3 +6,4 @@ Any and all content presented in this repository is presented for informational 
 <h1>CURRENT PROGRESS</h1>
 SONIC3K.exe is already not giving me any errors. Pretty good result!
 <h1><b>MIDIOUT.DLL, RUNSONIC.EXE and s3kspeed weren't fixed as for now. I'll do something with them later.</b></h1>
+<h1>ALL FILES IN SUBDIRS <i>SONIC3K, s3kspeed, RUNSONIC and MIDIOUT</i>'s files should start with a dot, but I had to rename them due to technical limitations. [WARNING! NOT INCLUDING THEIR SUBDIRS!!!]</h1>
